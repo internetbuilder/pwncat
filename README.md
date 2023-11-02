@@ -14,7 +14,7 @@
 
 <center><img alt="pwncat banner" title="pwncat" src="art/banner-1.png" style=""/></center>
 
-# pwncat
+# pwncattt
 
 [![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Documentation Status](https://readthedocs.org/projects/pwn-cat/badge/?version=latest)](https://docs.pwncat.org/en/latest/?badge=latest)
